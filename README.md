@@ -7,14 +7,6 @@ Este projeto é uma aplicação fullstack composta por:
 
 Permite o gerenciamento de usuários com funcionalidades como listagem, busca, ordenação, criação, edição e exclusão.
 
----
-
-## 📸 Preview
-
-> ⚠️ *Adicione aqui prints ou um link do deploy, se houver.*
-
----
-
 ## 🚀 Funcionalidades
 
 - ✅ Listagem de usuários com paginação
