@@ -13,7 +13,6 @@ Permite o gerenciamento de usuários com funcionalidades como listagem, busca, o
 - 🔍 Filtro por nome
 - ↕️ Ordenação customizada por colunas
 - 📝 Formulário para criar e editar usuários
-- 🗑️ Exclusão com confirmação
 - 📡 Integração com API REST via AdonisJS
 
 ---
